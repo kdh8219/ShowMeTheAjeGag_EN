@@ -1,4 +1,4 @@
-package io.github.kdh8219.showMeTheAjeGag
+package io.github.kdh8219.showMeTheAjeGag_EN
 
 enum class Colors{
     Black, DarkBlue, DarkGreen, DarkAqua, DarkRed, DarkPurple, Gold, Gray, DarkGray, Blue, Green, Aqua, Red, LightPurple, Yellow, White

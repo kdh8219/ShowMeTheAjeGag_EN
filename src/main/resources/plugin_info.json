@@ -1,9 +1,9 @@
 {
-  "name": "ShowMeTheAjeGag",
+  "name": "ShowMeTheAjeGag_EN",
   "version": "${version}",
   "description": "Show a random aje gag",
   "url": "https://github.com/kdh8219/ShowMeTheAjeGag/",
   "authors": [ "kdh8219",  "hongsh373" ],
-  "main_class": "io.github.kdh8219.showMeTheAjeGag.Main",
+  "main_class": "io.github.kdh8219.showMeTheAjeGag_EN.Main",
   "min_api_version": "3.2"
 }

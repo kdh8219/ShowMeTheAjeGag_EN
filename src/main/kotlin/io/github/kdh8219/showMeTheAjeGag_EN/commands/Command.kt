@@ -1,11 +1,11 @@
-package io.github.kdh8219.showMeTheAjeGag.commands
+package io.github.kdh8219.showMeTheAjeGag_EN.commands
 
-import io.github.kdh8219.showMeTheAjeGag.sendRandomMessage
+import io.github.kdh8219.showMeTheAjeGag_EN.sendRandomMessage
 import com.lambda.client.command.ClientCommand
 
 
 object Command : ClientCommand(
-    name = "aje",
+    name = "ajen",
     description = "Show a random aje gag"
 ) {
     init {
