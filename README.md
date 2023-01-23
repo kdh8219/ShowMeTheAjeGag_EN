@@ -7,7 +7,8 @@ Usage
 - `;ajen`
 - Auto Use Delay configurable
 
-> special thanks to ***@hongsh373***
+> special thanks to 
+[***@hongsh373***](https://github.com/hongsh373)
 
 REFERENCE
 [(mshwery/dad-jokes-api/)](https://github.com/mshwery/dad-jokes-api/)
